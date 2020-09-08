@@ -3,9 +3,9 @@
 		"name": "Economics",
 		"credits": 3,
 		"enrollmentCap": 45,
+		"startDate": "2020-08-31",
 		"enrollment": [{
 				"enrollmentId": 3003,
-				"startDate": "2020-08-31",
 				"grade": "",
 				"studentId": 1001,
 				"name": "Harvey Kim",
@@ -13,7 +13,6 @@
 			},
 			{
 				"enrollmentId": 3004,
-				"startDate": "2020-08-31",
 				"grade": "",
 				"studentId": 1002,
 				"name": "Emilia Harris",
@@ -21,7 +20,6 @@
 			},
 			{
 				"enrollmentId": 3009,
-				"startDate": "2020-08-31",
 				"grade": "",
 				"studentId": 1003,
 				"name": "Brian McCallister",
@@ -34,9 +32,9 @@
 		"name": "Applied Statistics",
 		"credits": 2,
 		"enrollmentCap": 20,
+		"startDate" : "2020-08-31",
 		"enrollment": [{
 			"enrollmentId": 3005,
-			"startDate": "2020-08-31",
 			"grade": "",
 			"studentId": 1002,
 			"name": "Emilia Harris",
@@ -44,7 +42,6 @@
 		},
 		{
 			"enrollmentId" : 3008,
-			"startDate" : "2020-08-31",
 			"grade" : "",
 			"studentId" : 1003,
 			"name" : "Brian McCallister",
@@ -57,10 +54,10 @@
 		"name" : "Spreadsheet Modeling",
 		"credits" : 2,
 		"enrollmentCap" : 55,
+		"startDate" : "2020-08-31",
 		"enrollment":[
 			{
 				"enrollmentId" : 3001,
-				"startDate" : "2020-08-31",
 				"grade" : "",
 				"studentId" : 1001,
 				"name" : "Harvey Kim",
@@ -68,7 +65,6 @@
 			},
 			{
 				"enrollmentId" : 3006,
-				"startDate" : "2020-08-31",
 				"grade" : "",
 				"studentId" : 1002,
 				"name" : "Emilia Harris",
@@ -81,10 +77,10 @@
 		"name" : "Pricing Management",
 		"credits" : 2,
 		"enrollmentCap" : 50,
+		"startDate" : "2020-01-12",
 		"enrollment":[
 			{
 				"enrollmentId" : 3002,
-				"startDate" : "2020-01-12",
 				"grade" : "A",
 				"studentId" : 1001,
 				"name" : "Harvey Kim",
@@ -92,7 +88,6 @@
 			},
 			{
 				"enrollmentId" : 3007,
-				"startDate" : "2020-01-12",
 				"grade" : "B-",
 				"studentId" : 1002,
 				"name" : "Emilia Harris",

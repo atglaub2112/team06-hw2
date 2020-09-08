@@ -1,1 +1,5 @@
-THIS IS A READ ME. We still need to add stuff for this.
+For Humans to read: CSV
+Configured in a more left to right manner. Which is easier for humans to read and keep track of the data.
+
+For Computers: JSON
+The list format should allow for the computer to better sort through the data. Pairs the data to the id tag easier.

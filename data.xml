@@ -5,9 +5,9 @@
 		<name>Economics</name>
 		<credits>3</credits>
 		<enrollmentCap>45</enrollmentCap>
+		<startDate>2020-08-31</startDate>
 		<student>
 			<enrollmentId>3003</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1001</studentId>
 			<name>Harvey Kim</name>
@@ -15,7 +15,6 @@
 		</student>
 		<student>
 			<enrollmentId>3004</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1002</studentId>
 			<name>Emilia Harris</name>
@@ -23,7 +22,6 @@
 		</student>
 		<student>
 			<enrollmentId>3009</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1003</studentId>
 			<name>Brian McCallister</name>
@@ -35,9 +33,9 @@
 		<name>Applied Statistics</name>
 		<credits>2</credits>
 		<enrollmentCap>20</enrollmentCap>
+		<startDate>2020-08-31</startDate>
 		<student>
 			<enrollmentId>3005</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1002</studentId>
 			<name>Emilia Harris</name>
@@ -45,7 +43,6 @@
 		</student>
 		<student>
 			<enrollmentId>3008</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1003</studentId>
 			<name>Brian McCallister</name>
@@ -57,9 +54,9 @@
 		<name>Spreadsheet Modeling</name>
 		<credits>2</credits>
 		<enrollmentCap>55</enrollmentCap>
+		<startDate>2020-08-31</startDate>
 		<student>
 			<enrollmentId>3001</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1001</studentId>
 			<name>Harvey Kim</name>
@@ -67,7 +64,6 @@
 		</student>
 		<student>
 			<enrollmentId>3006</enrollmentId>
-			<startDate>2020-08-31</startDate>
 			<grade></grade>
 			<studentId>1002</studentId>
 			<name>Emilia Harris</name>
@@ -79,9 +75,9 @@
 		<name>Pricing Management</name>
 		<credits>2</credits>
 		<enrollmentCap>50</enrollmentCap>
+		<startDate>2020-01-12</startDate>
 		<student>
 			<enrollmentId>3002</enrollmentId>
-			<startDate>2020-01-12</startDate>
 			<grade>A</grade>
 			<studentId>1001</studentId>
 			<name>Harvey Kim</name>
@@ -89,7 +85,6 @@
 		</student>
 		<student>
 			<enrollmentId>3007</enrollmentId>
-			<startDate>2020-01-12</startDate>
 			<grade>B-</grade>
 			<studentId>1002</studentId>
 			<name>Emilia Harris</name>
